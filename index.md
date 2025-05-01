@@ -113,3 +113,14 @@ if (isTSkaigi(conf)) {
 ```
 - 型ガード（ユーザー定義型ガード）は、型推論を強化し安全性を高める。
 - APIレスポンスの型チェックなど実務的応用が多数あり、必須のテクニック。
+
+## 🔍 採用 & 会社情報
+
+| タイトル | 概要 | リンク |
+|----------|------|-------|
+| **会社 Web サイト** | toggle holdings のコーポレートサイト。事業内容やニュースリリースはこちら。 | <https://toggle.co.jp/> |
+| **エンジニア採用情報** | toggle holdings のエンジニア向け募集要項や社内の開発カルチャーが分かるページです。 | <https://engineer.toggle.co.jp/chapter-1-toggle-holdings-engineer-101/enjiniano-1> |
+| **toggle holdings Engineering Handbook** | 開発・運用チームに参画する人向けの社内ドキュメントを公開。技術スタック・ワークフロー・文化を詳しく紹介。 | <https://engineer.toggle.co.jp/> |
+| **採用特設サイト** | 企業文化・福利厚生・社員インタビューなど、採用に特化した総合情報。 | <https://toggle.co.jp/recruit-sp/> |
+| **note 公式アカウント** | プロダクト開発ストーリーや技術記事、社内イベントの裏話を随時更新中。 | <https://note.com/toggle> |
+
